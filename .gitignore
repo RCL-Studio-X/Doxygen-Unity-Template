@@ -103,3 +103,4 @@ InitTestScene*.unity*
 # Extra gitignores
 .vsconfig
 .idea
+.vscode
